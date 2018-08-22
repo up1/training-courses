@@ -10,7 +10,7 @@
   * Test-Driven Development with Spring Boot
 * Mobile Programming
   * Android programming with Java
-    * Automated Testing 
+    * [Automated Testing](https://github.com/up1/training-courses/wiki/Automated-Testing-with-Android)
   * Android programming with Kotlin
     * Automated Testing 
   * iOS programming
