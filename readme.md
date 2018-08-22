@@ -1,7 +1,7 @@
 ## List of training courses
 
 * Golang Programming
-  * Basic of Golang
+  * [Basic of Golang](https://github.com/up1/training-courses/wiki/BASIC-of-GO)
   * Test-Driven Development with Golang
 * Java Programming
   * Basic of Java
