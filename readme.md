@@ -21,5 +21,6 @@
 * Other
   * Introduction to Docker
   * Introduction to DevOps
+  * [DevOps Workshop](https://github.com/up1/training-courses/wiki/DevOps-Workshop)
   * Kubernetes in action
   * Continuous Integration and Continuous Delivery with Jenkins
