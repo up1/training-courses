@@ -25,3 +25,4 @@
   * Kubernetes in action
   * Continuous Integration and Continuous Delivery with Jenkins
   * [Angular in Action](https://github.com/up1/training-courses/wiki/Angular-In-Action)
+  * [Elasticsearch for Developer](https://github.com/up1/training-courses/wiki/Elasticsearch-for-Developer)
