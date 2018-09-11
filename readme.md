@@ -16,7 +16,7 @@
   * iOS programming
     * Automated Testing 
 * Testing 
-  * Automated Testing with Robotframework
+  * [Automated Testing with Robotframework](https://github.com/up1/training-courses/wiki/Automated-Testing-with-Robotframework)
   * Automated Testing with Selenium
 * Other
   * Introduction to Docker
