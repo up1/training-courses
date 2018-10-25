@@ -4,7 +4,7 @@
   * [Basic of Golang](https://github.com/up1/training-courses/wiki/BASIC-of-GO)
   * Test-Driven Development with Golang
 * Java Programming
-  * Basic of Java
+  * [Basic of Java](https://github.com/up1/training-courses/wiki/Basic-of-Java)
   * [Test-Driven Development with Java](https://github.com/up1/training-courses/wiki/TDD-with-Java)
   * Develop microservice with Spring Boot
   * Test-Driven Development with Spring Boot
