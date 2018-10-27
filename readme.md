@@ -19,7 +19,7 @@
   * [Automated Testing with Robotframework](https://github.com/up1/training-courses/wiki/Automated-Testing-with-Robotframework)
   * Automated Testing with Selenium
 * Other
-  * Introduction to Docker
+  * [Introduction to Docker](https://github.com/up1/training-courses/wiki/Introduction-to-Docker)
   * Introduction to DevOps
   * [DevOps Workshop](https://github.com/up1/training-courses/wiki/DevOps-Workshop)
   * Kubernetes in action
