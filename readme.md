@@ -8,6 +8,7 @@
   * [Test-Driven Development with Java](https://github.com/up1/training-courses/wiki/TDD-with-Java)
   * Develop microservice with Spring Boot
   * Test-Driven Development with Spring Boot
+  * [TDD and Refactoring Workshop](https://github.com/up1/training-courses/wiki/Test-Driven-Development-(TDD)-%E0%B9%81%E0%B8%A5%E0%B8%B0-Refactoring-workskop-with-Java)
 * Mobile Programming
   * Android programming with Java
     * [Automated Testing](https://github.com/up1/training-courses/wiki/Automated-Testing-with-Android)
