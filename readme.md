@@ -21,7 +21,7 @@
   * Automated Testing with Selenium
 * Other
   * [Introduction to Docker](https://github.com/up1/training-courses/wiki/Introduction-to-Docker)
-  * Introduction to DevOps
+  * [Introduction to DevOps](https://github.com/up1/training-courses/wiki/Introduction-to-DevOps)
   * [DevOps Workshop](https://github.com/up1/training-courses/wiki/DevOps-Workshop)
   * Kubernetes in action
   * Continuous Integration and Continuous Delivery with Jenkins
