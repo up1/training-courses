@@ -2,7 +2,7 @@
 
 * Golang Programming
   * [Basic of Golang](https://github.com/up1/training-courses/wiki/BASIC-of-GO)
-  * Test-Driven Development with Golang
+  * [Test-Driven Development with Golang](https://github.com/up1/training-courses/wiki/TDD-with-Go)
 * Java Programming
   * [Basic of Java](https://github.com/up1/training-courses/wiki/Basic-of-Java)
   * [Test-Driven Development with Java](https://github.com/up1/training-courses/wiki/TDD-with-Java)
